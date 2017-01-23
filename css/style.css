@@ -1,77 +1,136 @@
 body {
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
     padding-top: 70px;
     overflow-x: hidden;
+
 }
+
+
 .navbar {
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 .codes {
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 .text-muted {
     color: gray;
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 .text-thin {
     font-weight: 100;
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 .title-logo {
     font-size: 60px;
+
 }
+
+
 .title-super {
     margin-top: 20px;
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 p {
     color: white;
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 .bg {
     background-color: #6495ED;
+
 }
+
+
 h1 {
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 h2 {
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
     text-align: center;
 }
+
+
 .menu {
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 .center-top {
     background-color: #6495ED;
+
 }
+
+
 .border {
     border-top-color: #8A2BE2;
+
 }
+
+
 .name {
     text-align: right;
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 .footer {
     text-align: center;
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 .fa {
     color: white;
+
 }
+
+
 .title {
     text-align: right;
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'shadows into light two', cursive;
+
 }
+
+
 .pic {
     border-radius: 50%;
+
 }
+
+
 .hr {
     color: white;
     background: white;
     width: 100%;
     height: 3px;
+
 }
+
 
 .img-responsive {
     margin: 0 auto;
+
 }
