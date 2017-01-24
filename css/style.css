@@ -1,7 +1,12 @@
+html, body { 
+    overflow-x:hidden; 
+
+}
+
+
 body {
     font-family: 'shadows into light two', cursive;
     padding-top: 70px;
-    overflow-x: hidden;
 
 }
 
@@ -134,3 +139,5 @@ h2 {
     margin: 0 auto;
 
 }
+
+
