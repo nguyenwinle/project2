@@ -12,7 +12,7 @@ I created the horse logo which represents my chinese zodiac sign using photoshop
 
 ### What I've learned in this lesson
 
-* Learned how to use developer tools and also how to use dev tools on my andriod phone
+* Learned how to use developer tools and also how to use dev tools on my android phone
 * Learned how to use different fonts from google fonts
 * Learned how to optomize website as much as possible through picture optomization
 * Use of border, padding, and margin
